@@ -10,7 +10,7 @@ This project ingests raw NYC taxi trip data, validates and cleans it, engineers 
 
 ## Architecture
 
-![Pipeline architecture](architecture/pipeline_diagram.png)
+![Pipeline architecture](architecture/nyc_taxi_pipeline_architecture.png)
 
 | Layer | Table | Purpose |
 |---|---|---|
